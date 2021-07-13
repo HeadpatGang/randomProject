@@ -1,0 +1,12 @@
+{ 
+    "mysql": {
+        "host": "localhost",
+        "user": "root",
+        "password": "usbw",
+        "port": 3307,
+        "database": "test"
+    },
+    "client": {
+        "prefix": "!"
+    }
+}
